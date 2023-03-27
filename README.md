@@ -36,16 +36,4 @@
   ## Meu Currículo:
   [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ah0Y9zkmG_nJ1YZqZypT0GimdFhATljy/view?usp=share_link)
  
-   
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-  
 ![Snake animation](https://github.com/5lyss2s1l2ss1ndr4/5lyss2s1l2ss1ndr4/blob/output/github-contribution-grid-snake.svg)
-
