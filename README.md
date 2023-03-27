@@ -13,7 +13,7 @@
 <div>
   
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=5lyss2s1l2ss1ndr4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5lyss2s1l2ss1ndr4&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5lyss2s1l2ss1ndr4&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
 
@@ -37,4 +37,4 @@
   [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ah0Y9zkmG_nJ1YZqZypT0GimdFhATljy/view?usp=share_link)
  
    
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/5lyss2s1l2ss1ndr4/5lyss2s1l2ss1ndr4/blob/output/github-contribution-grid-snake.svg)
