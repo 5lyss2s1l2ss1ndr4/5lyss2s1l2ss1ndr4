@@ -4,7 +4,7 @@
 - 📚 No momento estou aprendendo a Linguagem R para Análise de Dados ...
 - 🤝 Estou procurando ajuda para minha recolocação profissional, uma oportunidade para me desenvolver ...
 - 📚 No momento estou cursando Especialização e Extensão em Engenharia de Banco de Dados (UNICAMP);
-- 📚 No momento estou cursando Graduação de Tecnologia em Ciências de Banco de Dados (UNIVESP);
+- 📚 No momento estou cursando Graduação de Tecnologia em Ciências de Dados (UNIVESP);
 - 📔 Estou me aperfeiçoando em Python e SQL - um aprendizado contínuo;
 - 🕮 Sou Técnico em Eletrônica, Bacharel em Engenharia Elétrica (Eletrônica) e Pós Graduado em Engenharia de Software.
 
