@@ -36,4 +36,4 @@
   ## Meu Currículo:
   [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ah0Y9zkmG_nJ1YZqZypT0GimdFhATljy/view?usp=share_link)
  
-![Snake animation](https://github.com/5lyss2s1l2ss1ndr4/5lyss2s1l2ss1ndr4/blob/output/github-contribution-grid-snake.svg)
+
