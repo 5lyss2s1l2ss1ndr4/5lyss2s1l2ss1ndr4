@@ -12,7 +12,7 @@
 
 <div>
   
-  <img align="center" height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=5lyss2s1l2ss1ndr4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=5lyss2s1l2ss1ndr4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=5lyss2s1l2ss1ndr4&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
