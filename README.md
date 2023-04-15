@@ -34,8 +34,7 @@
    </div>
     
   ## Meu Currículo:
-  [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ah0Y9zkmG_nJ1YZqZypT0GimdFhATljy/view?usp=share_link)
- 
+  [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/my-drive)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{5lyss2s1l2ss1ndr4}/count.svg" /<
