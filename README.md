@@ -33,10 +33,10 @@
     <img align="center" height="30" width="40" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
    </div>
     
-  ## Meu Currículo:
-  [![CV](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
-  [![Carta_Referência](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
-  [![Honra_ao_Mérito](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
+  ## Meu Currículo, Cartas de Referências e Honra ao Mérito:
+  [![CV](https://badgen.net/badge/DOWNLOAD/Currículo/blue)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
+  [![Carta_Referências](https://badgen.net/badge/DOWNLOAD/Carta_Referência/orange)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
+  [![Honra_ao_Mérito](https://badgen.net/badge/DOWNLOAD/Honra_Mérito/green)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{5lyss2s1l2ss1ndr4}/count.svg" /<
