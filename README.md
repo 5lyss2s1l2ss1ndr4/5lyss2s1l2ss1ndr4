@@ -25,7 +25,7 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Linguagens que sou apaixonado e utilizo no meu dia a dia!</h1>
     <img align="center" height="50" width="80" alt="MySQL"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" height="50" width="90" alt="SQL_Server"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+    <img align="center" height="50" width="100" alt="SQL_Server"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img align="center" height="50" width="80" alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" height="50" width="60" alt="Oracle"  src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img align="center" height="50" width="60" alt="SQLite"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
