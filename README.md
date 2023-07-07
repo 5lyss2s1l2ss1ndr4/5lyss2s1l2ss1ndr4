@@ -4,7 +4,7 @@
 - 📚 No momento estou aprendendo a Linguagem R para Análise de Dados ...
 - 🤝 Estou procurando ajuda para minha recolocação profissional, uma oportunidade para me desenvolver ...
 - 📚 No momento estou cursando Especialização e Extensão em Engenharia de Banco de Dados (UNICAMP);
-- 📚 No momento estou cursando Graduação de Tecnologia em Ciências de Dados (UNIVESP);
+- 📚 No momento estou começando a Graduação de Tecnologia em Ciências de Dados (UNIVESP);
 - 📔 Estou me aperfeiçoando em Python e SQL - um aprendizado contínuo;
 - 🕮 Sou Técnico em Eletrônica, Bacharel em Engenharia Elétrica (Eletrônica) e Pós Graduado em Engenharia de Software.
 
@@ -23,7 +23,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Linguagens que sou apaixonado, estudo e utilizo no meu dia a dia.</h1>
+    <h1 align="center">Linguagens e SGBDs que sou apaixonado, estudo e utilizo no meu dia a dia.</h1>
     <img align="center" height="50" width="80" alt="MySQL"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" height="50" width="100" alt="SQL_Server"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img align="center" height="50" width="80" alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
