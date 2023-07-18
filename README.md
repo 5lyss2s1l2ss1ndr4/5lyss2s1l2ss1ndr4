@@ -36,7 +36,6 @@
   ### Meu Currículo, Carta de Referência e Honra ao Mérito:
   [![CV](https://badgen.net/badge/DOWNLOAD/Currículo/blue)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
   [![Carta_Referências](https://badgen.net/badge/DOWNLOAD/Carta_Referência/orange)](https://drive.google.com/file/d/1aH_MJx16FjURGjVri2DiLPQ7UGi74Ojr/view?usp=sharing)
-  [![Honra_ao_Mérito](https://badgen.net/badge/DOWNLOAD/Honra_Mérito/green)]()
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{5lyss2s1l2ss1ndr4}/count.svg" /<
