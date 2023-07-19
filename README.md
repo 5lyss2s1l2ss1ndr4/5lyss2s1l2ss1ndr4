@@ -33,7 +33,7 @@
     <img align="center" height="50" width="60" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
    </div>
     
-  ### Meu Currículo, Carta de Referência e Honra ao Mérito:
+  ### Meu Currículo e Carta de Referência:
   [![CV](https://badgen.net/badge/DOWNLOAD/Currículo/blue)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
   [![Carta_Referências](https://badgen.net/badge/DOWNLOAD/Carta_Referência/orange)](https://drive.google.com/file/d/1aH_MJx16FjURGjVri2DiLPQ7UGi74Ojr/view?usp=sharing)
 <div align="center">
