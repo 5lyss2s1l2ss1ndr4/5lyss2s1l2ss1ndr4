@@ -34,7 +34,7 @@
    </div>
     
   ### Meu Currículo e Carta de Referência:
-  [![CV](https://badgen.net/badge/DOWNLOAD/Currículo/blue)](https://drive.google.com/file/d/1TQTUrFkUWS7NNx85D3ejYoIpHrYKB55w/view?usp=share_link)
+  [![CV](https://badgen.net/badge/DOWNLOAD/Currículo/blue)](https://drive.google.com/file/d/1GiGxesmrG6FiQPyPkU8Cu-6ZUHI6N7Lq/view?usp=sharing)
   [![Carta_Referências](https://badgen.net/badge/DOWNLOAD/Carta_Referência/orange)](https://drive.google.com/file/d/1aH_MJx16FjURGjVri2DiLPQ7UGi74Ojr/view?usp=sharing)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
