@@ -36,6 +36,7 @@
   ### Meu Currículo e Carta de Referência:
   [![CV](https://badgen.net/badge/DOWNLOAD/Currículo/blue)](https://drive.google.com/file/d/1GiGxesmrG6FiQPyPkU8Cu-6ZUHI6N7Lq/view?usp=sharing)
   [![Carta_Referências](https://badgen.net/badge/DOWNLOAD/Carta_Referência/orange)](https://drive.google.com/file/d/1i779vHv1XQKTh6Lw-nP2820t-jTQdIu8/view?usp=drive_link)
+  [![Honra_ao_Mérito](https://badgen.net/badge/DOWNLOAD/Honra_ao_Mérito/green)](https://drive.google.com/file/d/14QCl05vhbKl9U4KmiOAPIhTL7tpDXP9M/view?usp=sharing)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{5lyss2s1l2ss1ndr4}/count.svg" /<
